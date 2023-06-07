@@ -13,9 +13,7 @@ Compilation of Excel projects for data analysis, data analytics and data visuali
 ![Project Screenshot](https://raw.githubusercontent.com/prakashgupta07/Vrinda_Store_Excel_Dashboard/main/Vrinda%20Store%20Excel%20Dashboard%20.png)
 
 
-## Datasets
----
-+ [refer to Resources folder.](https://github.com/prakashgupta07/Vrinda_Store_Excel_Dashboard/tree/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+
 
 ## About the DataSet
 ---
